@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="15dp">
+
+<Button
+        android:id="@+id/btnBai1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mở Bài 1"/>
+
+    <Button
+        android:id="@+id/btnBai2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mở Bài 2"/>
+    <Button
+        android:id="@+id/btnBai3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mở Bài 3"/>
+    <Button
+        android:id="@+id/btnBai4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mở Bài 4"/>
+    <Button
+        android:id="@+id/btnBai5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mở Bài 5"/>
+    <Button
+        android:id="@+id/btnBai6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mở Bài 6"/>
+    <Button
+        android:id="@+id/btnBai7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mở Bài 7"/>
+    <Button
+        android:id="@+id/btnBai8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mở Bài 8"/>
+
+</LinearLayout>
